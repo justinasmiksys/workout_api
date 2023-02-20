@@ -1,0 +1,92 @@
+muscles = [
+    {
+        "name": "Abs",
+        "slug": "abs",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/abs-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/abs-s.png",
+    },
+    {
+        "name": "Calves",
+        "slug": "calves",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/calves-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/calves-s.png",
+    },
+    {
+        "name": "Biceps",
+        "slug": "biceps",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/biceps-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/biceps-s.png",
+    },
+    {
+        "name": "Middle Back / Lats",
+        "slug": "middle-back-lats",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/middle-back-lats-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/middle-back-lats-s.png",
+    },
+    {
+        "name": "Shoulders",
+        "slug": "shoulders",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/shoulders-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/shoulders-s.png",
+    },
+    {
+        "name": "Forearms",
+        "slug": "forearms",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/forearms-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/forearms-s.png",
+    },
+    {
+        "name": "Hamstrings",
+        "slug": "hamstrings",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/hamstrings-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/hamstrings-s.png",
+    },
+    {
+        "name": "Obliques",
+        "slug": "obliques",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/obliques-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/obliques-s.png",
+    },
+    {
+        "name": "Lower Back",
+        "slug": "lower-back",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/lower-back-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/lower-back-s.png",
+    },
+    {
+        "name": "Upper Back & Lower Traps",
+        "slug": "upper-back-lower-traps",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/upper-back-lower-traps-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/upper-back-lower-traps-s.png",
+    },
+    {
+        "name": "Quadriceps",
+        "slug": "quadriceps",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/quadriceps-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/quadriceps-s.png",
+    },
+    {
+        "name": "Neck & Upper Traps",
+        "slug": "neck-upper-traps",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/neck-upper-traps-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/neck-upper-traps-s.png",
+    },
+    {
+        "name": "Glutes & Hip Flexors",
+        "slug": "glutes-hip-flexors",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/glues-hip-flexors-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/glues-hip-flexors-s.png",
+    },
+    {
+        "name": "Chest",
+        "slug": "chest",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/chest-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/chest-s.png",
+    },
+    {
+        "name": "Triceps",
+        "slug": "triceps",
+        "url_main": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/triceps-p.png",
+        "url_sec": "https://workoutlabs.com/fit/wp-content/themes/printableworkouts/img/muscle-groups/triceps-s.png",
+    },
+]
